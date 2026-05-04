@@ -64,7 +64,7 @@ Três quartos dos infratores são **indivíduos** — pequenos produtores, posse
 ---
 
 ### 3. Distribuição por Tipo de Infração
-Categorias como Flora, Licenciamento, Qualidade Ambiental, Fauna, Pesca, Administração Ambiental, Controle Ambiental e Outras.  
+ 
 Evidencia quais áreas concentram maior valor de multas.  
 
 ![Distribuição por Tipo de Infração](Distribuição%20por%20tipo%20de%20Infração.pdf.png)
@@ -81,9 +81,9 @@ O gráfico de distribuição por tipo de infração revela que **Flora é o tipo
 | Fauna | 2.321 | R$ 124 Mi | 3,3% |
 | Pesca | 1.414 | R$ 118 Mi | 3,2% |
  
-Infrações de Flora — desmatamento e supressão vegetal ilegal — concentram **75,9% de todo o valor** aplicado na base analítica. Cada auto de Flora vale em média R$ 418 mil, contra R$ 84 mil em Pesca e R$ 53 mil em Fauna.
+Infrações de Flora — desmatamento e supressão vegetal ilegal concentram **mais de 3/4 de todo o valor** aplicado na base analítica. Cada auto do tipo Flora vale em média R$ 418 mil, contra R$ 84 mil em Pesca e R$ 53 mil em Fauna.
 
-Dados complementares e não mostrado no indicador. Filtro de página — tipos excluídos e motivo:
+Dados complementares:
  
 | Tipo excluído | Autos | Valor | Motivo da exclusão |
 |---------------|-------|-------|--------------------|
@@ -98,7 +98,7 @@ Dados complementares e não mostrado no indicador. Filtro de página — tipos e
 ---
 
 ### 4. Distribuição por Bioma
-Amazônia lidera em número de autuações, seguida por Mata Atlântica e Cerrado.  
+ 
 Reforça a vulnerabilidade dos principais ecossistemas brasileiros.  
 
 ![Distribuição de Autuações por Bioma](Distribuição%20de%20Autuações%20por%20Bioma.pdf.png)
@@ -116,7 +116,7 @@ O gráfico de Distribuição por Bioma exibe a quantidade de autuações por eco
 | Caatinga | 1.313 | 9,2% |
 | Pantanal | 53 | 0,4% |
  
-A Amazônia lidera em volume com folga. Mas a **Mata Atlântica**, com menos de 12% do território original remanescente, ainda concentra **22,9% das autuações** — o segundo bioma mais fiscalizado do país, evidenciando pressão intensa sobre um ecossistema já altamente degradado.
+A Amazônia lidera em volume com folga. Mas a **Mata Atlântica**, com menos de 12% do território original remanescente, ainda concentra **22,9% das autuações** o segundo bioma mais fiscalizado do país, evidenciando pressão intensa sobre um ecossistema já altamente degradado.
 
 ## 🚨 Insights das Infrações de Alta Gravidade 
 
@@ -132,7 +132,7 @@ O indicador `% Infrações Alta Gravidade` exibe **10,00%** — proporção de a
 | Sem classificação | ~7.300 | R$ 306 mil |
  
 - A multa média do nível E é **22 vezes maior** que a do nível A.  
-- O dado mais crítico: **mais de 60% dos autos não têm gravidade classificada** — e esse grupo sem classificação tem ticket médio de R$ 306 mil, acima dos níveis B e C, sugerindo que a ausência de classificação não implica menor severidade.
+- O dado mais crítico: **mais de 60% dos autos não têm gravidade classificada** e esse grupo sem classificação tem ticket médio de R$ 306 mil, acima dos níveis B e C, sugerindo que a ausência de classificação não implica menor severidade.
 
 ## ⚖️ Insight da Mediana da Multa
 A mediana das multas em **R$ 16,0 mil** mostra que, apesar de existirem valores muito altos que elevam o total acumulado (R$ 4,31 bilhões), a maior parte das autuações se concentra em um patamar intermediário.  
@@ -157,7 +157,6 @@ O percentual de **autos cancelados (4%)** indica que uma pequena fração das au
 ---
 
 ## 💡 Insights Estratégicos
-- **Concentração Econômica:** Empresas concentram mais de 70% do valor das multas, indicando forte impacto de atividades produtivas.  
 - **Pressão Regional:** Estados da Amazônia Legal dominam o ranking, reforçando a necessidade de políticas específicas para a região.  
 - **Infrações Críticas:** Flora e Licenciamento são os maiores focos de multas, revelando desafios no combate ao desmatamento e na regulação de empreendimentos.  
 - **Biomas em Risco:** A Amazônia é o bioma mais autuado, mas outros ecossistemas também sofrem pressão significativa.  
@@ -172,13 +171,13 @@ O percentual de **autos cancelados (4%)** indica que uma pequena fração das au
 ---
 ## 🗃️ Como Baixar os Dados
  
-**🔗 Fonte oficial — download gratuito:**
+**🔗 Fonte oficial:**
  
-> **[dadosabertos.ibama.gov.br — Fiscalização: Auto de Infração](https://dadosabertos.ibama.gov.br/dataset/fiscalizacao-auto-de-infracao)**
+> **[Fiscalização: Auto de Infração](https://dadosabertos.ibama.gov.br/dataset/fiscalizacao-auto-de-infracao)**
 
 ## 📄 Licença
 Este projeto é de caráter acadêmico e informativo.  
-Uso livre para fins de estudo e análise, com atribuição ao autor.
+Uso livre para fins de estudo e análise.
 
 ---
 
