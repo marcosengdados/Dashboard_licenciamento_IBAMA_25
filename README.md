@@ -81,7 +81,7 @@ O gráfico de distribuição por tipo de infração revela que **Flora é o tipo
 | Fauna | 2.321 | R$ 124 Mi | 3,3% |
 | Pesca | 1.414 | R$ 118 Mi | 3,2% |
  
-Infrações de Flora — desmatamento e supressão vegetal ilegal concentram **mais de 3/4 de todo o valor** aplicado na base analítica. Cada auto do tipo Flora vale em média R$ 418 mil, contra R$ 84 mil em Pesca e R$ 53 mil em Fauna.
+Infrações de Flora, desmatamento e supressão vegetal ilegal concentram **mais de 3/4 de todo o valor** aplicado na base analítica. Cada auto do tipo Flora vale em média R$ 418 mil, contra R$ 84 mil em Pesca e R$ 53 mil em Fauna.
 
 Dados complementares:
  
