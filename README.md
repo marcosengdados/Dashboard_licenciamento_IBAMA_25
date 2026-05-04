@@ -14,14 +14,15 @@ O projeto foi desenvolvido para oferecer **transparência, clareza e impacto vis
 ---
 
 ## 📊 Principais KPIs
+
+
+![Dashboard Final](Projeto-IBAMA-autos-2025.pdf%20(1).png)
+
 - **Autuações Registradas:** 16,3 mil  
 - **Total de Multas Aplicadas:** R$ 4,31 bilhões  
 - **Valor Mediano das Multas:** R$ 16,0 mil  
 - **% Infrações Alta Gravidade:** 10%  
 - **% Autos Cancelados:** 4%  
-
-![Dashboard Final](Projeto-IBAMA-autos-2025.pdf%20(1).png)
-
 ---
 
 ## 🔎 Visualizações-Chave
